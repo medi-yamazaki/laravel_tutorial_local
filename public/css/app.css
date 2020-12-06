@@ -6,7 +6,9 @@
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
-
+.test01 {
+	color: #001;
+}
 :root {
   --blue: #3490dc;
   --indigo: #6574cd;
