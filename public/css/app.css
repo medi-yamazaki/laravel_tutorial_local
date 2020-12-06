@@ -9,6 +9,9 @@
 .test01 {
 	color: #001;
 }
+.test02 {
+	color: #002;
+}
 :root {
   --blue: #3490dc;
   --indigo: #6574cd;
